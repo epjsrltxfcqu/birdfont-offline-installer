@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 BirdFont Free Installer** — BirdFont is a free, open-source font editor that provides a simplified interface for creating fonts. Works without internet access, no account required. Full offline installation.
+**💻 BirdFont Free Installer** — BirdFont is a free, open-source font editor for Windows, macOS, and Linux that focuses on simplicity for beginners. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About BirdFont
 
-BirdFont is a free, open-source font editor that provides a simplified interface for creating fonts. It supports vector drawing, kerning, and export to TTF, EOT, and SVG formats — targeting beginners and hobbyists wanting to create simple custom fonts.
+BirdFont is a free, open-source font editor for Windows, macOS, and Linux that focuses on simplicity for beginners. Draw glyphs using Bézier curves, import SVG artwork, and export to TTF, OTF, and EOT formats. BirdFont's straightforward interface makes it accessible for graphic designers who want to create custom fonts without the complexity of professional-grade tools.
 
 ---
 
 ## ❌ Problem: BirdFont is hard to access
 
-- **Limited Features** — Missing advanced features needed for professional type production
-- **Basic Interface** — Fewer tools than commercial font editors
-- **Export Quality** — Exported fonts may need cleanup in professional tools for commercial use
-- **Development Activity** — Updates arrive infrequently
+- **Limited Advanced Features** — Missing some professional font design capabilities
+- **Kerning Tools** — Kerning and spacing tools less comprehensive than professional alternatives
+- **Community Support** — Smaller community compared to major font editors
+- **OpenType Features** — Limited OpenType feature scripting support
 
 ---
 
@@ -121,7 +121,7 @@ BirdFont is a free, open-source font editor that provides a simplified interface
 
 ---
 
-**BirdFont Free Installer** — BirdFont is a free, open-source font editor that provides a simplified interface for creating fonts. Install without internet connection today!
+**BirdFont Free Installer** — BirdFont is a free, open-source font editor for Windows, macOS, and Linux that focuses on simplicity for beginners. Install without internet connection today!
 
 <div align="center">
 
